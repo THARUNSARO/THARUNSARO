@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Tharun
-💻 I’m passionate about AI, IoT, Programming, and Mobile App Development.
-📱 I enjoy building innovative Flutter projects that enhance user experiences.
-🌱 I’m currently learning and experimenting with IoT systems, AI models, and modern app frameworks.
-👯 I’m looking to collaborate with UI designers.
-🤝 I’m open to collaborating on IoT, AI, and Flutter-based projects to create impactful solutions.
-🎯 My goal is to blend creativity and technology to solve real-world problems.
+👋 Hi, I’m Tharun<br/>
+💻 I’m passionate about AI, IoT, Programming, and Mobile App Development.<br/>
+📱 I enjoy building innovative Flutter projects that enhance user experiences.<br/>
+🌱 I’m currently learning and experimenting with IoT systems, AI models, and modern app frameworks.<br/>
+👯 I’m looking to collaborate with UI designers.<br/>
+🤝 I’m open to collaborating on IoT, AI, and Flutter-based projects to create impactful solutions.<br/>
+🎯 My goal is to blend creativity and technology to solve real-world problems.<br/>
 ⚡ Fun fact: I may seem laid-back, but when inspiration strikes, I’m unstoppable, tackling challenges with focus and enthusiasm!
