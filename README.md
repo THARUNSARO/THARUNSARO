@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌟 About Me
 
 <!--
 **THARUNSARO/THARUNSARO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m Tharun
+💻 I’m passionate about AI, IoT, Programming, and Mobile App Development.
+📱 I enjoy building innovative Flutter projects that enhance user experiences.
+🌱 I’m currently learning and experimenting with IoT systems, AI models, and modern app frameworks.
+👯 I’m looking to collaborate with UI designers.
+🤝 I’m open to collaborating on IoT, AI, and Flutter-based projects to create impactful solutions.
+🎯 My goal is to blend creativity and technology to solve real-world problems.
+⚡ Fun fact: I may seem laid-back, but when inspiration strikes, I’m unstoppable, tackling challenges with focus and enthusiasm!
